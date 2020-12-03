@@ -1,5 +1,78 @@
-.img-fluid {
-    max-width: 100%;
-    height: auto;
+/*Navigation*/
+
+.navbar {
+    padding:0;
+    line-height: 1;
+    
 }
+
+.navbar-brand {
+    margin:0;
+    padding:0;
+    width:50%;
+    
+}
+
+.logo {
+    vertical-align: top;
+    width: 33%;
+}
+
+.navbar-toggler {
+    font-size: x-large;
+    line-height: 0;
+    color: #047D8B;
+}
+
+.navbar-nav {
+    padding-bottom: 50px;
+}
+
+.nav-item {
+    padding-right: 0.2rem;
+}
+
+.nav-link{
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+    color: #047D8B;
+}
+
+.dropdown-menu {
+    background-color:rgba(86, 234, 250, 0.5);
+    text-align: center;
+    font-weight: 100;
+    line-height:1;
+    min-width: 0;
+    margin-bottom: 10px;
+}
+
+.dropdown-item {
+    font-family: 'Roboto', sans-serif;
+    color: #141B41;
+}
+
+@media only screen and (max-width: 991px) {
+  /* For mobile phones & tablets */
+  .navbar {
+  background-color: #141B41;
+  }
+  .navbar-brand {
+    width: 66%;
+  }
+
+  .navbar-nav {
+    padding-bottom: 0px;
+}
+  .nav-link {
+    font-size: 15px;
+    color: #F1EDEE;
+  }
+  .activities {
+    font-size: 10px; 
+  }
+
+  .activities > a {
+      color:#F1EDEE;
+  }
 
