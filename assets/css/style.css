@@ -122,7 +122,16 @@ body{
     margin: 50px 0;
     font-family: 'Rock Salt', cursive;
     color:#047D8B;
-    background-color: rgb(20, 27, 65, 0.75);
+    background-color: rgba(86, 234, 250, 0.5);
+}
+
+.testimonial {
+    text-align: right;
+    padding-top: 5px;
+    margin: 25px 0;
+    font-family: 'Rock Salt', cursive;
+    color:#047D8B;
+    background-color: rgba(86, 234, 250, 0.5);
 }
 
 
