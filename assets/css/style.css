@@ -7,6 +7,19 @@ body{
     
 }
 
+h2 {
+    margin: 25px 0;
+    font-family: 'Rock Salt', cursive;
+    color:#047D8B;
+}
+
+h3 {
+    margin-top: 25px;
+    padding:0 15px;
+    font-family: 'Roboto', sans-serif;
+    color:#141B41;
+}
+
 /*Navigation*/
 
 .navbar {
@@ -71,7 +84,7 @@ body{
 
 
 .heading > h1{
-      margin-top: 50px;
+      margin: 50px 0;
       font-family: 'Rock Salt', cursive;
       font-style: italic;
       font-weight: 200;
@@ -119,9 +132,7 @@ body{
 .about {
     text-align: left;
     padding-top: 5px;
-    margin: 50px 0;
-    font-family: 'Rock Salt', cursive;
-    color:#047D8B;
+    margin: 25px 0;
     background-color: rgba(86, 234, 250, 0.5);
 }
 
@@ -129,8 +140,6 @@ body{
     text-align: right;
     padding-top: 5px;
     margin: 25px 0;
-    font-family: 'Rock Salt', cursive;
-    color:#047D8B;
     background-color: rgba(86, 234, 250, 0.5);
 }
 
