@@ -22,7 +22,11 @@
   
 
 ## User Stories
-
+>I as a a tourist want to be able to find interesting and fun sports to do during my trip to ireland
+>
+>I as the business owner want to make users aware of our group & adventure sports and provide contact details for them to find us.
+>
+>As a local I want to find a group to help me push myself in a different physical capacity and to share in a common interest.
 
 
   
@@ -90,7 +94,7 @@ Required to style my HTML and images
 
   
 
-**[Balsamiq](https://balsamiq.com/)**
+**[Mockflow](https://mockflow.com/)**
 
 
   
@@ -169,6 +173,14 @@ Tested each individual webpage on https://validator.w3.org/ when I was nearing t
   
 |Scenario|-----------------------------------------------------------------------------------|Result|
 
+|Navigating to activities from home page  |Pass|
+
+| ||
+
+| ||
+
+| ||
+
 | ||
 
 | ||
@@ -181,8 +193,7 @@ Tested each individual webpage on https://validator.w3.org/ when I was nearing t
 
 > Some bugs noticed with the socials in the footer towards the end of
 > development. The last icon was wrapping below the first three icons on
-> mobile. I have resolved this issue so all 4 footer socials wrap on
-> same line.
+> mobile.
 > 
 
   
