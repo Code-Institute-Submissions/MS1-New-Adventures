@@ -1,4 +1,4 @@
-![New Adventures on AmIresponsive](http://ami.responsivedesign.is/?url=https://maddiesel90.github.io/MS1-New-Adventures/)
+Am I responsive can be viewed [here](http://ami.responsivedesign.is/?url=https://maddiesel90.github.io/MS1-New-Adventures/)
 
 
 New Adventures
