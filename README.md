@@ -1,3 +1,6 @@
+![New Adventures](http://ami.responsivedesign.is/?url=https://maddiesel90.github.io/MS1-New-Adventures/)
+
+
 New Adventures
 
 **[Live site](https://maddiesel90.github.io/MS1-New-Adventures/)**
