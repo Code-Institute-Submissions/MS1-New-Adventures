@@ -1,45 +1,244 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome Maddiesel90,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+## New Adventures
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+**My first website**
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
+**[Live site]()**
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+------------------------------------------------------------------
 
-A blue button should appear to click: *Make Public*,
+**[Repository]()**
+  
 
-Another blue button should appear to click: *Open Browser*.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-## Updates Since The Instructional Video
+## UX
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+  
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+## User Stories
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+  
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
---------
+## Wireframes
 
-Happy coding!
+
+
+  
+
+
+
+## Features
+
+
+
+  
+
+**Home Page**
+
+  
+
+**About**
+
+
+
+  
+
+**Contact**
+
+
+  
+
+**Socials**
+
+
+
+  
+
+
+
+## Features Left to Implement
+
+
+
+  
+
+**
+
+## Technologies Used
+
+**
+
+**HTML**
+
+
+
+  
+
+**CSS**
+
+Required to style my HTML and images
+
+  
+
+**[Balsamiq](https://balsamiq.com/)**
+
+
+  
+**[Bootstrap 4](https://getbootstrap.com/)**
+
+Provided useful components and layout features to create this website. 
+
+  
+
+**[Canva](https://www.canva.com/)**
+
+
+
+
+**[w3Schools](https://www.w3schools.com/)**
+
+
+
+  
+
+**[Git](https://git-scm.com/) / [GitHub](https://github.com/)**
+
+Used for version control and storing and deploying website once complete.
+
+  
+
+**[Font Awesome](https://fontawesome.com/)**
+
+Used this for icons and favicons for the likes of socials
+
+  
+
+**[Animista](https://animista.net/)**
+
+
+**[Google Fonts](https://fonts.google.com/)**
+
+Used google fonts to pick appropriate fonts for the band
+
+  
+**[Jquery](https://jquery.com/)**
+
+Built in features of bootstrap to allow animations not available with just HTML/CSS. The project uses JQuery to simplify DOM manipulation.
+
+
+  
+
+**
+
+## Testing
+
+**
+
+**Testing phase 1**
+
+
+**Testing Phase 2**
+
+
+**
+
+**Testing Phase 3**
+
+**
+Tested each individual webpage on https://validator.w3.org/ when I was nearing the end of my project.
+
+ 
+
+**
+
+
+
+**
+
+
+  
+|Scenario|-----------------------------------------------------------------------------------|Result|
+
+| ||
+
+| ||
+
+| ||
+
+
+
+## **Bugs**
+
+> Some bugs noticed with the socials in the footer towards the end of
+> development. The last icon was wrapping below the first three icons on
+> mobile. I have resolved this issue so all 4 footer socials wrap on
+> same line.
+> 
+
+  
+
+  
+
+  
+
+## Deployment
+
+**
+To deploy the project I followed these steps:
+
+ - From within the main Repo
+   [Here](https://github.com/TheBigBushman/emily7-MS1) I clicked on the
+   settings button on the right hand side.
+ - I then Scrolled down to Github Pages and selected master branch as a
+   source.
+ - This page is now deployed to [here](https://thebigbushman.github.io/emily7-MS1/index.html)
+  
+ - If i make any new changes to this repo it will automatically update
+   on Github Pages
+  
+
+**
+
+## Credits
+
+**
+
+[**Codepen.io**](codepen.io)
+
+Viewed some websites for inspiration as to what to build and how to implement them.
+
+
+ 
+
+**[Code Institute](https://codeinstitute.net/)** 
+
+**
+
+## Content
+
+**
+
+ 
+
+[**Pexels**](https://www.pexels.com/search/concert/)
+amazing catalogue and free use images which are greatly appreciated.
+Both parallaz images on the about page taken from [Here](https://www.pexels.com/photo/people-at-concert-1105666/) & [Here](https://www.pexels.com/photo/photo-of-people-clapping-2747448/)
+
+
+**
+
+## Acknowledgements
+
+**
+
+
