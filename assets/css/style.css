@@ -7,7 +7,6 @@ body{
     
 }
 
-
 /*Navigation*/
 
 .navbar {
@@ -62,8 +61,28 @@ body{
     color: #141B41;
 }
 
+/*Footer*/
+
+.footer {
+    position: absolute;
+    margin-top: 5px;
+    bottom: 0;
+    width:100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: rgb(20, 27, 65, 0.75);
+    }
+
+.icons > a {
+    margin: 0 100px;
+    color: #047D8B;
+}
+
+
 @media only screen and (max-width: 991px) {
   /* For mobile phones & tablets */
+
+  /*Navigation*/
   .navbar {
   background-color: #141B41;
   }
@@ -86,3 +105,13 @@ body{
       color:#F1EDEE;
   }
 
+/*Footer*/
+
+.footer {
+      background-color:#141B41;
+      position: fixed;
+      margin-top: 10px;
+  }
+  .icons > a {
+    margin: 0 15px;
+  }
