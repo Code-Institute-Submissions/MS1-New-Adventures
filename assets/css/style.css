@@ -70,12 +70,14 @@ body{
     width:100%;
     height: 60px;
     line-height: 60px;
+    text-align: center;
     background-color: rgb(20, 27, 65, 0.75);
     }
 
 .icons > a {
-    margin: 0 100px;
+    margin: 0 75px;
     color: #047D8B;
+    
 }
 
 
@@ -114,4 +116,5 @@ body{
   }
   .icons > a {
     margin: 0 15px;
+    
   }
