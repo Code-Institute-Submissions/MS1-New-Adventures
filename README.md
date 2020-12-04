@@ -1,6 +1,6 @@
 New Adventures
 
-**[Live site]()**
+**[Live site](https://maddiesel90.github.io/MS1-New-Adventures/)**
 
 ------------------------------------------------------------------
 
@@ -214,11 +214,11 @@ Attempted to test each individual webpage on https://validator.w3.org/ however w
 To deploy the project I followed these steps:
 
  - From within the main Repo
-   [Here](https://github.com/TheBigBushman/emily7-MS1) I clicked on the
+   [Here](https://github.com/Maddiesel90/MS1-New-Adventures) I clicked on the
    settings button on the right hand side.
  - I then Scrolled down to Github Pages and selected master branch as a
    source.
- - This page is now deployed to [here]()
+ - This page is now deployed to [here](https://maddiesel90.github.io/MS1-New-Adventures/)
   
  - If i make any new changes to this repo it will automatically update
    on Github Pages
