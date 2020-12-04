@@ -61,6 +61,40 @@ body{
     color: #141B41;
 }
 
+/*Hero*/
+
+.container {
+    width:auto;
+    text-align: center;
+    padding: 0 15px;
+}
+
+
+.heading > h1{
+      margin-top: 50px;
+      font-family: 'Rock Salt', cursive;
+      font-style: italic;
+      font-weight: 200;
+      color: #047D8B;
+  }
+
+  .btn{
+      margin-top: 50px;
+      margin-bottom: 10px;
+      padding: 6px 20px;
+      background-color: #FF7C0A;
+      text-transform: uppercase;
+      font-weight: bold;
+      color: #141B41;
+  }
+
+  .cta{
+      padding: 10px 4px;
+      text-transform: uppercase;
+      font-weight: bold;
+  }
+
+
 /*Footer*/
 
 .footer {
@@ -115,6 +149,6 @@ body{
       margin-top: 10px;
   }
   .icons > a {
-    margin: 0 15px;
+    margin: 0 5px;
     
   }
